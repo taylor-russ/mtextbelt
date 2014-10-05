@@ -1,6 +1,6 @@
 {
   "name": "mtextbelt",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A very small libary for sending free text messages with Textbelt (http://textbelt.com/)",
   "main": "index.js",
   "repository": {
