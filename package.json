@@ -1,0 +1,27 @@
+{
+  "name": "mtextbelt",
+  "version": "0.1.0",
+  "description": "A very small libary for sending free text messages with Textbelt (http://textbelt.com/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soondobu/mtextbelt.git"
+  },
+  "keywords": [
+    "textmessage",
+    "textbelt"
+  ],
+  "author": "Taylor Russ <taylor.russm@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/soondobu/mtextbelt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/soondobu/mtextbelt/issues"
+  },
+  "dependencies": {
+    "request": "^2.44.0"
+  }
+}
